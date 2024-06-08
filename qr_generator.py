@@ -1,6 +1,5 @@
 # Import the QR Code Library
-import sys;
-print(sys.path)
+import qrcode
 
 # Accept the URL as Input
 url = input("Enter the URL: ")
